@@ -1,3 +1,17 @@
+## Model
+<p> A Model provides a blueprint of the system. It is an abstract representation of the system.This model representation promotes better understanding. Building a model is essential for communication of project team.Other advantages are:
+ </p>
+ 
+ 1. Helps in visualizing the system to be developed.
+ 2. Permits to specify the structure and behavior of the system.
+ 3. Used as a template to construct a proposed system.
+ 4. Helps to master complex system.
+ 5. Make easy to enhance and manipulation of existing system.
+ 
+## UML
+
+ <img width="475" alt="image" src="https://user-images.githubusercontent.com/84008107/218641789-fab396c8-667a-41d0-be41-86e9f62b826f.png">
+ 
 1. UML is a standard language for specifying, visualizing, constructing, and documenting the artifacts of software systems.
 2. UML was created by the Object Management Group (OMG) and UML 1.0 specification draft was proposed to the OMG in January 1997.
 3. OMG is continuously making efforts to create a truly industry standard.
@@ -29,7 +43,8 @@ As UML describes the real-time systems, it is very important to make a conceptua
 1. UML building blocks
 2. Rules to connect the building blocks
 3. Common mechanisms of UML
- 
+
+
 ## Object-Oriented Concepts
 UML can be described as the successor of object-oriented (OO) analysis and design.
 
@@ -67,13 +82,16 @@ The purpose of OO analysis and design can described as −
 There are three basic steps where the OO concepts are applied and implemented. The steps can be defined as
 
 OO Analysis → OO Design → OO implementation using OO languages
+
 The above three points can be described in detail as −
 <ul>
   <li>During OO analysis, the most important purpose is to identify objects and describe them in a proper way. If these objects are identified efficiently, then the next job of design is easy. The objects should be identified with responsibilities. Responsibilities are the functions performed by the object. Each and every object has some type of responsibilities to be performed. When these responsibilities are collaborated, the purpose of the system is fulfilled.</li>
   <li>The second phase is OO design. During this phase, emphasis is placed on the requirements and their fulfilment. In this stage, the objects are collaborated according to their intended association. After the association is complete, the design is also complete.</li>
   <li>The third phase is OO implementation. In this phase, the design is implemented using OO languages such as Java, C++, etc.</li>
 </ul>
+
 ## Role of UML in OO Design
+
 UML is a modeling language used to model software and non-software systems. Although UML is used for non-software systems, the emphasis is on modeling OO software applications. Most of the UML diagrams discussed so far are used to model different aspects such as static, dynamic, etc. Now whatever be the aspect, the artifacts are nothing but objects.
 
 If we look into class diagram, object diagram, collaboration diagram, interaction diagrams all would basically be designed based on the objects.
