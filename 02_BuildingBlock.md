@@ -57,9 +57,17 @@ A behavioral thing consists of the dynamic parts of UML models. Following are th
 
 ![image](https://user-images.githubusercontent.com/84008107/218644357-b574d788-15f4-43bd-b9ad-e912994b0c22.png)
 
+![image](https://user-images.githubusercontent.com/84008107/219029041-557fbac2-ee67-471d-8b82-c58216ea00ca.png)
+
+
 #### State machine − State machine is useful when the state of an object in its life cycle is important. It defines the sequence of states an object goes through in response to events. Events are external factors responsible for state change
 
 ![image](https://user-images.githubusercontent.com/84008107/218644405-c7bbbf2c-6752-452c-a68d-8006227adee0.png)
+
+##### Example
+
+![image](https://user-images.githubusercontent.com/84008107/219029724-ac369a62-c701-435a-8cd7-282e4c3af95c.png)
+
 
 ## Grouping Things
 Grouping things can be defined as a mechanism to group elements of a UML model together. There is only one grouping thing available −
